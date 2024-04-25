@@ -1,8 +1,8 @@
 # Victor Lima
 
-## ✌️Sobre mim
-Sou analista e cientista de dados, trabalho na área a mais de 4 anos agora, sempre busco aprender mais e aprimorar meus conhecimentos. Atualmente trabalho na Swarmio Media, empresa da área de tecnologia e esports.
-## 🛠️Habilidades
+## ✌️About Me
+I studied and worked for 3 years in mechanical engineering, and I changed careers, working for 3 years now in data science. Started as an intern on strategic a planning area, helping develop dashboards, KPIs, statistical analysis and using those analysis to help the decision-making process. Currently working as a full-time data analyst for Swarmio Media, where I helped create all the company’s BI from scratch.
+## 🛠️Skills
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -17,7 +17,7 @@ Sou analista e cientista de dados, trabalho na área a mais de 4 anos agora, sem
 ## 🎵Hobbies
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
-## 🖥️Redes Sociais
+## 🖥️Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-lima-bb232b15b/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorLima4/)
 [![Bento](https://img.shields.io/badge/-bento.me-%23E5E5E5?style=for-the-badge&logo=bento&logoColor=)](https://bento.me/victorlima)
@@ -26,5 +26,5 @@ Sou analista e cientista de dados, trabalho na área a mais de 4 anos agora, sem
 ## 📊GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorLima4&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VictorLima4&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-### 📌Projeto favorito
+### 📌Favorite Project
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorLima4&repo=energy-usage-forecast&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/VictorLima4/energy-usage-forecast)

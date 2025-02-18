@@ -1,7 +1,7 @@
 # Victor Lima
 
 ## ✌️About Me
-I studied and worked for 3 years in mechanical engineering, and I changed careers, working for 3 years now in data science. Started as an intern on strategic a planning area, helping develop dashboards, KPIs, statistical analysis and using those analysis to help the decision-making process. Currently working as a full-time data analyst for Swarmio Media, where I helped create all the company’s BI from scratch.
+I studied and worked for 3 years in mechanical engineering, and I changed careers, working for 4 years now in data science. Started as an intern on strategic a planning area, helping develop dashboards, KPIs, statistical analysis and using those analysis to help the decision-making process. Currently working as a full-time data analyst for Swarmio Media, where I helped create all the company’s BI from scratch.
 ## 🛠️Skills
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
